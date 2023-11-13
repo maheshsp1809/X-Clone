@@ -67,6 +67,6 @@
     "@types/lodash.debounce": "^4.0.7",
     "prettier": "^2.8.8",
     "prettier-plugin-tailwindcss": "^0.3.0",
-    "prisma": "^5.4.2"
+    "prisma": "^5.5.2"
   }
 }
